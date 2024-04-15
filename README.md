@@ -1,4 +1,4 @@
-# All-about-SQL
+# All-about- SQL
 A repository of SQL queries
 
 SELECT column_name(s)
